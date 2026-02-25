@@ -1,0 +1,15 @@
+# data / binaries
+*.npy
+*.npz
+*.fits
+*.zip
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.pkl
+
+# common junk
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
