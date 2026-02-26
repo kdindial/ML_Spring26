@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  25 FEB 2026 01:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  25 FEB 2026 21:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -164,24 +164,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (%OUTDIR%/kdindial_ps_1.aux)
 \openout1 = `kdindial_ps_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count284
@@ -201,108 +201,105 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 19.
+Package hyperref Info: Link coloring OFF on input line 18.
  (%OUTDIR%/kdindial_ps_1.out) (%OUTDIR%/kdindial_ps_1.out)
 \@outlinefile=\write3
 \openout3 = `kdindial_ps_1.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <6> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 29.
-<figs/lstsqr_err_vs_lambda.png, id=32, 462.528pt x 346.896pt>
+(Font)              <10.95> on input line 23.
+<figs/lstsqr_err_vs_lambda.png, id=37, 462.528pt x 346.896pt>
 File: figs/lstsqr_err_vs_lambda.png Graphic file (type png)
 <use figs/lstsqr_err_vs_lambda.png>
-Package pdftex.def Info: figs/lstsqr_err_vs_lambda.png  used on input line 40.
+Package pdftex.def Info: figs/lstsqr_err_vs_lambda.png  used on input line 44.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 
 
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/lstsqr_total_err_vs_lambda.png, id=49, 462.528pt x 346.896pt>
+<figs/lstsqr_total_err_vs_lambda.png, id=55, 462.528pt x 346.896pt>
 File: figs/lstsqr_total_err_vs_lambda.png Graphic file (type png)
 <use figs/lstsqr_total_err_vs_lambda.png>
-Package pdftex.def Info: figs/lstsqr_total_err_vs_lambda.png  used on input line 46.
+Package pdftex.def Info: figs/lstsqr_total_err_vs_lambda.png  used on input line 50.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 
 
 [2 <./figs/lstsqr_err_vs_lambda.png> <./figs/lstsqr_total_err_vs_lambda.png>]
-<figs/knn_err_vs_neighbors.png, id=56, 462.528pt x 346.896pt>
+<figs/knn_err_vs_neighbors.png, id=62, 462.528pt x 346.896pt>
 File: figs/knn_err_vs_neighbors.png Graphic file (type png)
 <use figs/knn_err_vs_neighbors.png>
-Package pdftex.def Info: figs/knn_err_vs_neighbors.png  used on input line 57.
+Package pdftex.def Info: figs/knn_err_vs_neighbors.png  used on input line 59.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
-<figs/pca_knn_err_vs_neighbors.png, id=57, 462.528pt x 346.896pt>
-File: figs/pca_knn_err_vs_neighbors.png Graphic file (type png)
-<use figs/pca_knn_err_vs_neighbors.png>
-Package pdftex.def Info: figs/pca_knn_err_vs_neighbors.png  used on input line 66.
+<figs/1 layer - 256 neurons.png, id=63, 462.528pt x 346.896pt>
+File: figs/1 layer - 256 neurons.png Graphic file (type png)
+<use figs/1 layer - 256 neurons.png>
+Package pdftex.def Info: figs/1 layer - 256 neurons.png  used on input line 66.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 
 
 [3 <./figs/knn_err_vs_neighbors.png>]
-<figs/1 layer - 256 neurons.png, id=63, 462.528pt x 346.896pt>
-File: figs/1 layer - 256 neurons.png Graphic file (type png)
-<use figs/1 layer - 256 neurons.png>
-Package pdftex.def Info: figs/1 layer - 256 neurons.png  used on input line 75.
-(pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
-
-
-[4 <./figs/pca_knn_err_vs_neighbors.png>]
 <figs/2 layers - 256, 128.png, id=69, 462.528pt x 346.896pt>
 File: figs/2 layers - 256, 128.png Graphic file (type png)
 <use figs/2 layers - 256, 128.png>
-Package pdftex.def Info: figs/2 layers - 256, 128.png  used on input line 82.
+Package pdftex.def Info: figs/2 layers - 256, 128.png  used on input line 73.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 <figs/4 layers - 256, 128, 64, 32.png, id=70, 462.528pt x 346.896pt>
 File: figs/4 layers - 256, 128, 64, 32.png Graphic file (type png)
 <use figs/4 layers - 256, 128, 64, 32.png>
-Package pdftex.def Info: figs/4 layers - 256, 128, 64, 32.png  used on input line 88.
+Package pdftex.def Info: figs/4 layers - 256, 128, 64, 32.png  used on input line 79.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 
 
-[5 <./figs/1 layer - 256 neurons.png> <./figs/2 layers - 256, 128.png>]
+[4 <./figs/1 layer - 256 neurons.png> <./figs/2 layers - 256, 128.png>]
 <figs/8 layers 256 - 128 - 64 --- 2.png, id=77, 462.528pt x 346.896pt>
 File: figs/8 layers 256 - 128 - 64 --- 2.png Graphic file (type png)
 <use figs/8 layers 256 - 128 - 64 --- 2.png>
-Package pdftex.def Info: figs/8 layers 256 - 128 - 64 --- 2.png  used on input line 94.
+Package pdftex.def Info: figs/8 layers 256 - 128 - 64 --- 2.png  used on input line 85.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 <figs/2 layers 256 - 32.png, id=78, 462.528pt x 346.896pt>
 File: figs/2 layers 256 - 32.png Graphic file (type png)
 <use figs/2 layers 256 - 32.png>
-Package pdftex.def Info: figs/2 layers 256 - 32.png  used on input line 99.
+Package pdftex.def Info: figs/2 layers 256 - 32.png  used on input line 90.
 (pdftex.def)             Requested size: 281.85585pt x 211.39981pt.
 
 
-[6 <./figs/4 layers - 256, 128, 64, 32.png> <./figs/8 layers 256 - 128 - 64 --- 2.png>]
+[5 <./figs/4 layers - 256, 128, 64, 32.png> <./figs/8 layers 256 - 128 - 64 --- 2.png>]
+Overfull \hbox (1.96747pt too wide) in paragraph at lines 97--99
+\OT1/cmr/m/n/10.95 31.046279633403266, 41.990782296617915, 34.29658620479617 and 30.051910919472213. This seems
+ []
 
-[7 <./figs/2 layers 256 - 32.png>]
 
-[8] (%OUTDIR%/kdindial_ps_1.aux)
+
+[6 <./figs/2 layers 256 - 32.png>]
+
+[7] (%OUTDIR%/kdindial_ps_1.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `kdindial_ps_1.out' has not changed.
-(rerunfilecheck)             Checksum: 0AD5030BB7EA71F50DF9F2157C9E9755;944.
+(rerunfilecheck)             Checksum: E072535839E570A724AB7F812F6FD57B;1017.
  ) 
 Here is how much of TeX's memory you used:
- 8886 strings out of 473190
- 139443 string characters out of 5715801
- 538213 words of memory out of 5000000
- 32046 multiletter control sequences out of 15000+600000
- 563700 words of font info for 52 fonts, out of 8000000 for 9000
+ 8883 strings out of 473190
+ 139211 string characters out of 5715801
+ 541215 words of memory out of 5000000
+ 32042 multiletter control sequences out of 15000+600000
+ 563868 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,527b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on %OUTDIR%/kdindial_ps_1.pdf (8 pages, 244604 bytes).
+ 75i,6n,79p,419b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on %OUTDIR%/kdindial_ps_1.pdf (7 pages, 245570 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  18 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -120,6 +120,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT ./figs/lstsqr_err_vs_lambda.png
@@ -137,11 +138,6 @@ INPUT ./figs/knn_err_vs_neighbors.png
 INPUT ./figs/knn_err_vs_neighbors.png
 INPUT ./figs/knn_err_vs_neighbors.png
 INPUT ./figs/knn_err_vs_neighbors.png
-INPUT ./figs/pca_knn_err_vs_neighbors.png
-INPUT ./figs/pca_knn_err_vs_neighbors.png
-INPUT ./figs/pca_knn_err_vs_neighbors.png
-INPUT ./figs/pca_knn_err_vs_neighbors.png
-INPUT ./figs/pca_knn_err_vs_neighbors.png
 INPUT ./figs/1 layer - 256 neurons.png
 INPUT ./figs/1 layer - 256 neurons.png
 INPUT ./figs/1 layer - 256 neurons.png
@@ -179,3 +175,4 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
