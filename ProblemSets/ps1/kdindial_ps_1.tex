@@ -25,7 +25,11 @@
 For this problem set I used linear regression, k nearest neighbors and multi-layer-perceptron to try to predict a star's gravity using the 
 spectra of the star. I normalized features with the training data so that each feature in the training set had a standard deviation of 1 and a mean of 0. In other words, I shifted each parameter by subtracting the mean training data, and I scaled each parameter by the 1/standard deviation of the training data. I applied this transformation 
 to the the validation set and the test set. I also normalized the training, test and validation labels this way. Looking back it was probably not necessary to normalize the labels.
-I "scored" the model by calculating the difference for each star in the model and the validation data and squared that difference. I then summed up the errors squared for each point in the validation set and used that sum. My code, and this writeup are in my github repository.
+I "scored" the model by calculating the difference for each star in the model and the validation data and squared that difference. 
+\begin{equation}
+    Err=\sum (y-f(x))^2
+\end{equation}
+I then summed up the errors squared for each point in the validation set and used that sum. My code, and this writeup are in my github repository.
 
 \section{Linnear Regression}
 
